@@ -2,7 +2,7 @@
 title: '程明锐的个人博客'
 description: '偶尔努力，时常颓废的矛盾综合体，也不清楚自己喜欢什么，从小到大坚持最久的大概就是睡觉跟吃饭吧，但是很高兴与你在这里相遇。希望我们能一起进步'
 keyword: '程明锐, 程明锐的独立博客, 程明锐的博客, 前端, 前端开发, 前端博客, javascript, ajax, nodejs, Vue'
-url: 'ming.github.io' # your host
+url: 'https://www.hellomyblog.cn/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -31,7 +31,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: true,
-  disqus_url: 'ming.github.io/embed.js'
+  disqus_url: 'https://www.hellomyblog.cn/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
