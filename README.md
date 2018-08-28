@@ -1,25 +1,6 @@
 ## jekyll-theme-H2O
 
 基于Jekyll的博客主题模板，简洁轻量。
-
-另外，还有此主题的[Ghost版本](https://github.com/eastpiger/ghost-theme-H2O) by [eastpiger](https://github.com/eastpiger)
-
-### Preview
-
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
-
-![](screenshot/jekyll-theme-h2o-realhome.jpg)
-
-![](screenshot/jekyll-theme-h2o-realm.png)
-
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
-
-If you like this theme or using it, please give a ⭐️ for motivation ;)
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](screenshot/1494404591.png)
-
 Using your smartphone to scan the QR Code
 
 ### Features 特性
@@ -127,10 +108,10 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
-description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
-url: 'http://liaokeyu.com' # 站点url
+title: '程明锐的单人博客'
+description: '偶尔努力，时常颓废的矛盾综合体，也不清楚自己喜欢什么，从小到大坚持最久的大概就是睡觉跟吃饭吧，但是很高兴与你在这里相遇。希望我们能一起进步'
+keyword: '程明锐, 程明锐的独立博客, 程明锐的博客, 前端, 前端开发, 前端博客, javascript, ajax, nodejs, Vue' #keywords
+url: 'https://www.hellomyblog.cn/' # your host
 baseurl: ''
 
 # Build settings
@@ -177,8 +158,6 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 这样做是为了在Jekyll运行时排除某些文件被复制到运行文件`_site`里去。
 
 #### 侧边栏
-
-![](screenshot/jekyll-theme-h2o-sideBar.png)
 
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。
 
