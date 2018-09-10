@@ -59,7 +59,7 @@ recommend-tags: true # 是否显示推荐标签
 recommend-condition-size: 12 # 推荐标签个数限制
 
 # Build settings
-paginate: 6
+paginate: 5
 paginate_path: 'page:num'
 exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
