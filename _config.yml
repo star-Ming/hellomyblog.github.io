@@ -1,4 +1,4 @@
-# Site settings 配置站点
+﻿# Site settings 配置站点
 title: '程明锐的个人博客'
 description: '偶尔努力，时常颓废的矛盾综合体，也不清楚自己喜欢什么，从小到大坚持最久的大概就是睡觉跟吃饭吧，但是很高兴与你在这里相遇。希望我们能一起进步'
 keyword: '程明锐, 程明锐的独立博客, 程明锐的博客, 前端, 前端开发, 前端博客, javascript, ajax, nodejs, Vue'
@@ -14,7 +14,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
 author: '程明锐'
@@ -82,6 +82,14 @@ gems: [jekyll-paginate]
 # Hero background patterns  配置底纹
 postPatterns: 'food'
 
+language: ruby
+rvm:
+- 2.1
+script: "bundle exec jekyll build"
+
+branches:
+  only:
+    - gh-pages
 
 # plugins: - jekyll-feed
 
