@@ -14,7 +14,7 @@ nav:
 
 # Footer
 footer:
-  since: 2018
+  since: 2017
 
 # Author 配置博主信息
 author: '程明锐'
@@ -85,14 +85,3 @@ postPatterns: 'food'
 
 # plugins: - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
